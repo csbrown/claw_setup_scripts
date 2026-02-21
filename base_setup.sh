@@ -1,4 +1,3 @@
-```bash
 # =============================================
 # OpenClaw Setup Script for Fresh Linux Install
 # =============================================
@@ -61,4 +60,3 @@ cd myworkspace
 #   openclaw chat
 #   openclaw skills search
 #   openclaw skills install <name>
-```
