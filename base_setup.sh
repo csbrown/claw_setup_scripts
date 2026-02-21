@@ -15,8 +15,6 @@ sudo apt update
 sudo apt install -y python3 python3-pip python3-venv git curl build-essential
 
 # 2. Create project directory and Python virtual environment
-mkdir -p ~/openclaw
-cd ~/openclaw
 python3 -m venv venv
 source venv/bin/activate
 pip install --upgrade pip
