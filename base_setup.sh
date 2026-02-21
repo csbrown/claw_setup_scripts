@@ -20,7 +20,7 @@ source venv/bin/activate
 pip install --upgrade pip
 
 # 3. Install OpenClaw
-pip install https://github.com/openclaw/openclaw.git
+pip install git+https://github.com/openclaw/openclaw.git
 openclaw --version
 
 # 4. Configure Anthropic provider (requires ANTHROPIC_API_KEY to be set)
